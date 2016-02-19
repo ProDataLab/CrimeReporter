@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Crimes><Crime datetime="19/02/16 07:51" type="Vandelism"><property_type>Automobile</property_type><description>Broken windshield</description><estimated_cost>500.00</estimated_cost><witness_name>Jane Austin</witness_name></Crime><Crime datetime="19/02/16 07:59" type="Auto Theft"><owner_name>Bob Jones</owner_name><vehicle_make>Jaguar</vehicle_make><vehicle_model>XJ6</vehicle_model><vehicle_year>2015</vehicle_year><vehicle_color>Red</vehicle_color><location>London Bridge</location><witness /></Crime></Crimes>
